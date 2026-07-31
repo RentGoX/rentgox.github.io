@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rentgox.com",
+      "sha256_cert_fingerprints": [
+        "99:67:E6:8E:F8:F1:C2:BF:A0:E3:A4:38:FB:C4:4F:70:3E:8C:87:97:18:E4:F3:6C:E7:D0:BA:B5:90:B9:AB:E9",
+        "5F:E4:31:76:85:7D:E3:81:65:B1:50:DE:A1:69:C3:8D:FE:4B:00:28:74:07:47:56:95:57:06:35:24:A4:B8:42"
+      ]
+    }
+  }
+]
